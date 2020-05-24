@@ -12,9 +12,9 @@
 | 10 | [Petya and Origami](https://codeforces.com/problemset/problem/1080/A) | 700 |  |
 | 11 | [The Rank](https://codeforces.com/problemset/problem/1017/A) | 700 |  |
 | 12 | [Nastya Is Reading a Book](https://codeforces.com/problemset/problem/1136/A) | 700 |  |
-| 13 | [Fingerprints](https://codeforces.com/problemset/problem/994/A) | 700 |  |
+| 13 | [Fingerprints](https://codeforces.com/problemset/problem/994/A) | 700 | 24/5/2020 |
 | 14 | [Game](https://codeforces.com/problemset/problem/984/A) | 700 |  |
-| 15 | [Choose Two Numbers](https://codeforces.com/problemset/problem/1206/A) | 800 |  |
+| 15 | [Choose Two Numbers](https://codeforces.com/problemset/problem/1206/A) | 800 | 24/5/2020 |
 | 16 | [Ehab and another construction problem](https://codeforces.com/problemset/problem/1088/A) | 800 |  |
 | 17 | [Olympiad](https://codeforces.com/problemset/problem/937/A) | 800 |  |
 | 18 | [Alex and a Rhombus](https://codeforces.com/problemset/problem/1180/A) | 800 |  |
@@ -59,7 +59,7 @@
 | 57 | [Roman and Browser](https://codeforces.com/problemset/problem/1100/A) | 1000 |  |
 | 58 | [Protect Sheep](https://codeforces.com/problemset/problem/948/A) | 1000 |  |
 | 59 | [Ehab Fails to Be Thanos](https://codeforces.com/problemset/problem/1174/A) | 1000 |  |
-| 60 | [Fake NP](https://codeforces.com/problemset/problem/805/A) | 1000 | 24/5/20 |
+| 60 | [Fake NP](https://codeforces.com/problemset/problem/805/A) | 1000 | 24/5/2020 |
 | 61 | [Stages](https://codeforces.com/problemset/problem/1011/A) | 1000 |  |
 | 62 | [Circle Metro](https://codeforces.com/problemset/problem/1169/A) | 1000 |  |
 | 63 | [Eating Soup](https://codeforces.com/problemset/problem/1163/A) | 1000 |  |
