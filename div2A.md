@@ -18,7 +18,7 @@
 | 16 | [Ehab and another construction problem](https://codeforces.com/problemset/problem/1088/A) | 800 |  |
 | 17 | [Olympiad](https://codeforces.com/problemset/problem/937/A) | 800 |  |
 | 18 | [Alex and a Rhombus](https://codeforces.com/problemset/problem/1180/A) | 800 |  |
-| 19 | [Maximum Square](https://codeforces.com/problemset/problem/1243/A) | 800 |  |
+| 19 | [Maximum Square](https://codeforces.com/problemset/problem/1243/A) | 800 | 31/5/2020 |
 | 20 | [Rounding](https://codeforces.com/problemset/problem/898/A) | 800 |  |
 | 21 | [Angry Students](https://codeforces.com/problemset/problem/1287/A) | 800 |  |
 | 22 | [A pile of stones](https://codeforces.com/problemset/problem/1159/A) | 800 |  |
@@ -72,7 +72,7 @@
 | 70 | [Single Push](https://codeforces.com/problemset/problem/1253/A) | 1000 |  |
 | 71 | [Anastasia and pebbles](https://codeforces.com/problemset/problem/789/A) | 1100 |  |
 | 72 | [Drinks Choosing](https://codeforces.com/problemset/problem/1195/A) | 1100 |  |
-| 73 | [Div. 64](https://codeforces.com/problemset/problem/887/A) | 1100 | 28/05/2020 |
+| 73 | [Div. 64](https://codeforces.com/problemset/problem/887/A) | 1100 | 28/5/2020 |
 | 74 | [Salem and Sticks ](https://codeforces.com/problemset/problem/1105/A) | 1100 |  |
 | 75 | [Karen and Morning](https://codeforces.com/problemset/problem/816/A) | 1100 |  |
 | 76 | [Unimodal Array](https://codeforces.com/problemset/problem/831/A) | 1100 |  |
@@ -97,6 +97,6 @@
 | 95 | [Lesha and array splitting](https://codeforces.com/problemset/problem/754/A) | 1300 |  |
 | 96 | [The Monster](https://codeforces.com/problemset/problem/787/A) | 1300 |  |
 | 97 | [Kirill And The Game](https://codeforces.com/problemset/problem/842/A) | 1300 |  |
-| 98 | [Birthday](https://codeforces.com/problemset/problem/1068/A) | 1300 |  |
+| 98 | [Birthday](https://codeforces.com/problemset/problem/1068/A) | 1300 | 31/5/2020 |
 | 99 | [Cloning Toys](https://codeforces.com/problemset/problem/922/A) | 1400 |  |
 | 100 | [A Prank](https://codeforces.com/problemset/problem/1062/A) | 1400 |  |
